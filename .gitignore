@@ -2,3 +2,4 @@ AppLib-sshwrap-*
 .build
 *~
 nytprof*
+.DS_Store
